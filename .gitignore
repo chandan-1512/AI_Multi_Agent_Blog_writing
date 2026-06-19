@@ -1,0 +1,9 @@
+.env
+myenv/
+venv/
+__pycache__/
+*.pyc
+images/
+.streamlit/secrets.toml
+bmi.ipynb
+test_files.ipynb
