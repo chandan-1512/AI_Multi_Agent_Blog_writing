@@ -6,6 +6,10 @@ A multi-agent AI application built using LangGraph that can research, plan, writ
 
 Topic → Router → Research → Orchestrator → Parallel Workers → Reducer → Image Planner → Final Blog
 
+## Workflow Architecture(diagram)
+
+![Workflow](images/graph_flow.png)
+
 ## Features
 
 - Web Research (Tavily)
@@ -23,3 +27,4 @@ Topic → Router → Research → Orchestrator → Parallel Workers → Reducer 
 - Gemini
 - Tavily
 - Streamlit
+
