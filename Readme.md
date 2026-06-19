@@ -8,7 +8,7 @@ Topic → Router → Research → Orchestrator → Parallel Workers → Reducer 
 
 ## Workflow Architecture(diagram)
 
-![Workflow](images/graph_flow.png)
+![Workflow](images/Graph_flow.png)
 
 ## Features
 
